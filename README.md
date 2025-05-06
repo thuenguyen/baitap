@@ -10,9 +10,9 @@ python bai2.py
 ```
 Lựa chọn một trong các kịch bản kiểm thử sau:
 
-Trường hợp 1: Tạo một đoạn thẳng và thực hiện di chuyển.
-Trường hợp 2: Tính toán độ dài của đoạn thẳng.
-Trường hợp 3: Tạo danh sách các đoạn thẳng rồi sắp xếp chúng.
+- Trường hợp 1: Tạo một đoạn thẳng và thực hiện di chuyển.
+- Trường hợp 2: Tính toán độ dài của đoạn thẳng.
+- Trường hợp 3: Tạo danh sách các đoạn thẳng rồi sắp xếp chúng.
 
 ## bai3.py
 ```
